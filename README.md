@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/georgesbrj/f0ad1de1385f8d0788ce389f8be2eaa3/raw/7b8409adc9146b311bcd0f25e49535a8ef6ff3c0/gitHubCard.svg"/>
-<h1 align="left"> Hi <img src="https://raw.githubusercontent.com/georgesbrj/georgesbrj/master/hi.gif" width="30px"> I'm George </h1>
+<h1 align="left"> Hi 👊 I'm George </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgesbrj&color=yellow" alt="Profile Views"/></p>
  
