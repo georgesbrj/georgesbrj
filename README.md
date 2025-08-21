@@ -23,5 +23,5 @@
 ![graphql](https://img.shields.io/badge/-Graphql-05122a?style=flat&logo=graphql)&nbsp;
 ![HTML](https://img.shields.io/badge/-Html-05122a?style=flat&logo=HTML5)&nbsp;
 ![vuejs](https://img.shields.io/badge/-Vuejs-05122a?style=flat&logo=vue.js)&nbsp;
-![java](https://img.shields.io/badge/-Vuejs-05122a?style=flat&logo=vue.js)&nbsp;
+![java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
  
