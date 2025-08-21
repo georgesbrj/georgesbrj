@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgesbrj&color=yellow" alt="Profile Views"/></p>
  
  -🔥 Full Stack developer  <br><br>
- -😜 PHP,JavaScript 
+ -😜 PHP,JAVA,NodeJS
  
  <br><br>
 
